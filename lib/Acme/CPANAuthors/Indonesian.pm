@@ -5,8 +5,6 @@ package Acme::CPANAuthors::Indonesian;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
-
 use Acme::CPANAuthors::Register (
     DNS         => 'Daniel Sirait',
     EDPRATOMO   => 'Edwin Pratomo',
