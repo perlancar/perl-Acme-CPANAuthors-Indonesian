@@ -1,9 +1,9 @@
 package Acme::CPANAuthors::Indonesian;
 
-# ABSTRACT: We are Indonesian CPAN authors (Kami para penulis CPAN Indonesia)
-
 use strict;
 use warnings;
+
+# VERSION
 
 use Acme::CPANAuthors::Register (
     DNS         => 'Daniel Sirait',
@@ -13,8 +13,7 @@ use Acme::CPANAuthors::Register (
 );
 
 1;
-
-__END__
+# ABSTRACT: We are Indonesian CPAN authors (Kami para penulis CPAN Indonesia)
 
 =head1 SYNOPSIS
 
