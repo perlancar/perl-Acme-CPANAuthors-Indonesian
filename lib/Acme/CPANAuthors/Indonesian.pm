@@ -1,14 +1,16 @@
 package Acme::CPANAuthors::Indonesian;
 
+# DATE
+# VERSION
+
 use strict;
 use warnings;
-
-# VERSION
 
 use Acme::CPANAuthors::Register (
     DNS         => 'Daniel Sirait',
     EDPRATOMO   => 'Edwin Pratomo',
     HASANT      => 'Hasanuddin Tamir',
+    PERLANCAR   => 'perlancar',
     SHARYANTO   => 'Steven Haryanto',
 );
 
@@ -31,16 +33,21 @@ use Acme::CPANAuthors::Register (
 
 =head1 DESCRIPTION
 
-This class is used to provide a hash of Indonesian CPAN author's PAUSE id/name to Acme::CPANAuthors.
+This class is used to provide a hash of Indonesian CPAN author's PAUSE id/name
+to Acme::CPANAuthors.
+
 
 =head1 MAINTENANCE
 
-If you are an Indonesian CPAN author not listed here, please send me your id/name via email or RT so we can always keep this module up to date. If there's a mistake and you're listed here but are not Indonesian (or just don't want to be listed), sorry for the inconvenience: please contact me and I'll remove the entry right away.
+If you are an Indonesian CPAN author not listed here, please send me your
+id/name via email or RT so we can always keep this module up to date. If there's
+a mistake and you're listed here but are not Indonesian (or just don't want to
+be listed), sorry for the inconvenience: please contact me and I'll remove the
+entry right away.
+
 
 =head1 SEE ALSO
 
 L<Acme::CPANAuthors> - Main class to manipulate this one
-
-L<Acme::CPANAuthors::Chinese> - Code and documentation nearly taken verbatim from it
 
 =cut
