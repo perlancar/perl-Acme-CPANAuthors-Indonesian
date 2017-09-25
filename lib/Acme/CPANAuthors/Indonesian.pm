@@ -12,6 +12,7 @@ use Acme::CPANAuthors::Register (
     HASANT      => 'Hasanuddin Tamir',
     PERLANCAR   => 'perlancar',
     SHARYANTO   => 'Steven Haryanto',
+    YUSRIDEB    => 'Achmad Yusri Affandi',
 );
 
 1;
