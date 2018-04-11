@@ -10,6 +10,7 @@ use Acme::CPANAuthors::Register (
     DNS         => 'Daniel Sirait',
     EDPRATOMO   => 'Edwin Pratomo',
     HASANT      => 'Hasanuddin Tamir',
+    HEINCE      => 'Heince Kurniawan',
     PERLANCAR   => 'perlancar',
     SHARYANTO   => 'Steven Haryanto',
     YUSRIDEB    => 'Achmad Yusri Affandi',
