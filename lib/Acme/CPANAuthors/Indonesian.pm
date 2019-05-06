@@ -50,6 +50,8 @@ entry right away.
 
 =head1 SEE ALSO
 
-L<Acme::CPANAuthors> - Main class to manipulate this one
+L<Acme::CPANAuthors> - Main class to manipulate this one.
+
+L<Acme::CPANAuthors::Malaysian> - Our neighbouring country.
 
 =cut
