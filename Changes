@@ -1,36 +1,36 @@
-0.052   2019-05-06 (PERLANCAR)
+0.052   2019-05-06  Released-By: PERLANCAR
 
 	- No functional changes.
 
 	- [doc] Mention Acme::CPANAuthors::Malaysian.
 
 
-0.051   2018-04-11 (PERLANCAR)
+0.051   2018-04-11  Released-By: PERLANCAR
 
 	- Add HEINCE.
 
 
-0.050    2017-09-26 (PERLANCAR)
+0.050    2017-09-26  Released-By: PERLANCAR
 
          - Add author: YUSRIDEB.
 
 
-0.04     2014-09-09 (PERLANCAR)
+0.04     2014-09-09  Released-By: PERLANCAR
 
          - Add author: PERLANCAR.
 
 
-0.03     2013-09-09 (SHARYANTO)
+0.03     2013-09-09  Released-By: SHARYANTO
 
          - No functional changes. Rebuild with MakeMaker instead of
            Module::Build because the latter is deprecated from core since 5.19.
 
 
-0.02    2009-11-11 (SHARYANTO)
+0.02    2009-11-11  Released-By: SHARYANTO
 
 	- POD fixes.
 
 
-0.01    2009-11-11 (SHARYANTO)
+0.01    2009-11-11  Released-By: SHARYANTO
 
         - First version, released on an unsuspecting world.
